@@ -1,0 +1,75 @@
+﻿{
+  "EnterpriseExtension": {
+    "Manager": null,
+    "CostCenter": null,
+    "Department": "Flotillas",
+    "Division": null,
+    "EmployeeNumber": "9999999",
+    "Organization": null
+  },
+  "Active": true,
+  "Addresses": [
+    {
+      "Country": "Mexico",
+      "Formatted": null,
+      "Locality": "TOLUCA",
+      "PostalCode": "50210",
+      "Region": "Estado de mexico",
+      "StreetAddress": "Fuente de barcaza",
+      "ItemType": "work",
+      "Primary": false
+    }
+  ],
+  "CustomExtension": {},
+  "DisplayName": "Erika Quintero",
+  "ElectronicMailAddresses": [
+    {
+      "Value": "equintero@thorsolutions365.onmicrosoft.com",
+      "ItemType": "work",
+      "Primary": true
+    }
+  ],
+  "InstantMessagings": null,
+  "Locale": null,
+  "Metadata": {
+    "ResourceType": "User",
+    "Created": "2024-07-15T21:46:48.5611764Z",
+    "LastModified": "2024-07-15T21:46:48.5611764Z",
+    "Version": null,
+    "Location": null
+  },
+  "Name": {
+    "Formatted": "Erika QUINTERO ramsa",
+    "FamilyName": "QUINTERO ramsa",
+    "GivenName": "Erika",
+    "HonorificPrefix": null,
+    "HonorificSuffix": null
+  },
+  "Nickname": null,
+  "PhoneNumbers": [
+    {
+      "Value": "6666666666",
+      "ItemType": "fax",
+      "Primary": false
+    },
+    {
+      "Value": "5536373104",
+      "ItemType": "mobile",
+      "Primary": false
+    },
+    {
+      "Value": "5536373104",
+      "ItemType": "work",
+      "Primary": true
+    }
+  ],
+  "PreferredLanguage": null,
+  "Roles": null,
+  "TimeZone": null,
+  "Title": "Administradora de flotilla",
+  "UserType": null,
+  "UserName": "equintero@thorsolutions365.onmicrosoft.com",
+  "ExternalIdentifier": "equintero",
+  "Identifier": "d1b919b1-eabf-4825-aaaa-b9c93e45339e",
+  "Schemas": [ "urn:ietf:params:scim:schemas:core:2.0:User", "urn:ietf:params:scim:schemas:extension:enterprise:2.0:User" ]
+}
